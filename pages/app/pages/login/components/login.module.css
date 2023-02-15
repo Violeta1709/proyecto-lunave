@@ -1,0 +1,184 @@
+.h1title{
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+.divlogin{
+    text-align:center ;
+    margin:0 auto;
+    padding: 30px;
+    margin-top: 15%;
+    height: 100%;
+}
+
+.txtU{
+    width: 90%;
+}
+
+.btnIngreso{
+  position: absolute;
+  box-sizing: border-box;
+  width: 141px;
+  height: 40px;
+  right: 10px;
+  top: 378px;
+  float: right;
+  background-color: #8ACBB5 !important;
+  border: 1px solid #272C41 !important;
+  border-radius: 10px !important;
+  margin-bottom: 65px !important;
+color: #272C41;
+}
+.btnr{
+  float: right;
+}
+
+/* .fderechos{
+  align-content: center;
+
+} */
+
+.dr{
+  position: absolute;
+  top: 617px;
+  font-size: 12px;
+  float: left;
+}
+
+.btnRecuperar{
+  position: absolute;
+  box-sizing: border-box;
+  width: 210px;
+  height: 40px;
+  right: 10px;
+  top: 551px;
+  float: right;
+  background-color: #8ACBB5 !important;
+  border: 1px solid #272C41 !important;
+  border-radius: 10px !important;
+  margin-bottom: 65px !important;
+  color: #272C41;
+
+}
+
+.btnRecuperar:hover{
+  background-color: seagreen;
+}
+
+.form{
+  position: absolute;
+  top: 205px;
+  width: 90%;
+}
+
+.Ic{
+  position: absolute;
+  top: 160px;
+  left: 103px;
+  text-align: center;
+}
+
+@media screen and (min-width: 1000px) {
+
+  .divlogin{
+    text-align:center ;
+    margin:0 auto;
+    padding: 30px;
+    margin-top: 15%;
+    height: 100%;
+}
+
+.h1title{
+  position: absolute;
+  bottom: 130px;
+}
+
+.txtU{
+    width: 90%;
+}
+
+.btnIngreso{
+  position: absolute;
+  box-sizing: border-box;
+  width: 141px;
+  height: 40px;
+  right: 170px;
+  top: 378px;
+  float: right;
+  background-color: #8ACBB5 !important;
+  border: 1px solid #272C41 !important;
+  border-radius: 10px !important;
+  margin-bottom: 65px !important;
+color: #272C41;
+}
+.btnr{
+  float: right;
+}
+
+.fderechos{
+  align-content: center;
+
+}
+
+.dr{
+  position: absolute;
+  top: 759px;
+  font-size: 12px;
+  right: 6px;
+}
+
+.btnRecuperar{
+  position: absolute;
+  box-sizing: border-box;
+  width: 210px;
+  height: 40px;
+  right: 170px;
+  top: 551px;
+  float: right;
+  background-color: #8ACBB5 !important;
+  border: 1px solid #272C41 !important;
+  border-radius: 10px !important;
+  margin-bottom: 65px !important;
+  color: #272C41;
+
+}
+
+.btnRecuperar:hover{
+  background-color: seagreen;
+}
+
+.form{
+  position: absolute;
+  top: 205px;
+  width: 90%;
+}
+
+.Ic{
+  position: absolute;
+  top: 160px;
+  right: 86px;
+  text-align: center;
+}
+}
+
+
+@media screen and (min-width: 600px){
+
+  .h1title{
+    position: absolute;
+    bottom: 90px;
+  }
+  
+}
+
+@media screen and (min-width: 400px){
+
+  .h1title{
+    position: absolute;
+    bottom: 90px;
+  }
+  
+}
+

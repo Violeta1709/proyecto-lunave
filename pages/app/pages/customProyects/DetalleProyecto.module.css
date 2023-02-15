@@ -1,0 +1,25 @@
+.btnatras{
+    position: relative;
+    left: 12px;
+    background-color: #8ACBB5 !important;
+}
+.h1titler{
+    position: relative;
+    bottom: 44px;
+    left: 66px;
+ 
+}
+.parp{
+    position: relative;
+    width: 260px;
+    height: 23px;
+    left: 12px;
+    bottom:4px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px; 
+    color:  #DA8F72;;
+}

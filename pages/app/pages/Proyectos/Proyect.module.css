@@ -1,0 +1,25 @@
+.acordion{
+    width: 90%;
+    height: 100%;
+    margin-top: 60px;
+    margin-left: 20px;
+    position: relative;
+
+}
+
+.ac{
+    background-color: #C9DAA4
+    !important;
+}
+
+.pa{
+    position: absolute;
+ bottom: 30px;   
+ font-size: 15px;
+}
+
+.pb{
+    position: absolute;
+    bottom: 1px;
+
+}

@@ -1,0 +1,66 @@
+
+
+.h1titler{
+    position: relative;
+    bottom: 44px;
+    left: 66px;
+ 
+}
+
+.btnatras{
+    position: relative;
+    left: 12px;
+   
+}
+
+.parp{
+    position: relative;
+    width: 255px;
+    height: 23px;
+    left: 12px;
+    bottom:24px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px; 
+    color:  #DA8F72;;
+}
+
+.subr{
+    position: relative;
+    bottom: 13px;
+    display: inline-block;
+    left: 12px;
+   width: 320px;
+}
+
+.btn{
+    box-sizing: border-box;
+    width: 300px;
+    height: 40px;
+    left: 28px;
+    top: 63px;
+    background-color: #8ACBB5 !important;
+    border: 1px solid #272C41 !important;
+    border-radius: 10px !important;
+    margin-bottom: 65px !important;
+
+}
+
+.ftarea{
+position: relative;
+bottom: 20px;
+}
+.fpuesto{
+    position: relative;
+    bottom: 50px;
+}
+
+.hasignadas{
+    position: relative;
+    bottom: 70px;
+    width: 88% !important;
+    left: 9px;
+}
